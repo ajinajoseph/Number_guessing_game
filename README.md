@@ -40,8 +40,8 @@ User input validation and game logic
 ### 📌 Description:
 - A text-based Python game where the player has 10 chances to guess a randomly generated number between a given range.
 
-##🖱 GUI Version (Tkinter)
-📌 Description:
+## GUI Version (Tkinter)
+### 📌 Description:
 A graphical version using Tkinter where the player guesses a number via an input field. It shows feedback like "Too low" or "Too high", and allows restarting the game.
 
 
